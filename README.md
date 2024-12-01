@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:01/12/2024
+## Register Number:24900131
+## Name:JohnPall M
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -11,15 +11,53 @@ Government of Gujarat
 
 ## Idea
 
+"My idea for the hackathon is to bring back alumni to college functions by conducting activities related to them, creating strong bonds, and rebuilding the college community.
+
+Build a platform where alumni can share their expertise through blogs, podcasts, and webinars, benefiting both students and fellow alumni.
+
+Develop a platform where alumni can collectively fund scholarships for deserving students.
+
+Host virtual reunions and networking events to connect alumni from around the world.
+
+Create a platform where alumni can mentor current students and recent graduates, offering career guidance, internships, and job referrals
+
+
 
 ## Proposed Solution / Architecture Diagram
 
+![sih3](https://github.com/user-attachments/assets/c2117ca4-3976-4321-8801-00d4d7c1a2b1)
 
-## Use Cases
+## usercase
+
+![SIH JPEG](https://github.com/user-attachments/assets/57d731bf-893b-4fc5-9838-19f072aae099)
 
 
 ## Technology Stack
 
+1.Frontend: React.js (for building a user-friendly interface)
+
+2.Backend: Node.js (for handling server-side logic)
+
+3.Database: PostgreSQL (for storing user data, events, and alumni activities)
+
+4.Authentication: Firebase Authenticator (for secure user authentication)
+
+5.Cloud Storage: AWS S3 or Firebase Storage (for storing content like blogs, webinars, etc.)
+
+6.Communication APIs: Zoom SDK or WebRTC (for hosting webinars and virtual networking events)
+
+7.Version Control and Testing: Git, Postman, or Insomnia (for version management and API testing)
 
 ## Dependencies
 
+Mentorship Module:10 days
+
+Networking Events Module:10 days
+ 
+Knowledge Sharing Platform:10 days
+
+Scholarship Funding Platform:10 days
+
+UI/UX Design:10 days
+
+Estimated Budget: Rs. 50,000
