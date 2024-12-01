@@ -12,7 +12,28 @@ Government of Gujarat
 ## Idea
 
 
+
+"My idea for the hackathon is to bring back alumni to college functions by conducting activities related to them, creating strong bonds, and rebuilding the college community.
+
+Build a platform where alumni can share their expertise through blogs, podcasts, and webinars, benefiting both students and fellow alumni.
+
+Develop a platform where alumni can collectively fund scholarships for deserving students.
+
+Host virtual reunions and networking events to connect alumni from around the world.
+
+Create a platform where alumni can mentor current students and recent graduates, offering career guidance, internships, and job referrals
+
+
+
+
+
+
+
+
 ## Proposed Solution / Architecture Diagram
+
+
+
 
 
 ## Use Cases
