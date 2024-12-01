@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:01/12/2024
+## Register Number:24900131
+## Name:JOHNPALL.M
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -13,7 +13,7 @@ Government of Gujarat
 
 
 
-"My idea for the hackathon is to bring back alumni to college functions by conducting activities related to them, creating strong bonds, and rebuilding the college community.
+My idea for the hackathon is to bring back alumni to college functions by conducting activities related to them, creating strong bonds, and rebuilding the college community.
 
 Build a platform where alumni can share their expertise through blogs, podcasts, and webinars, benefiting both students and fellow alumni.
 
@@ -25,22 +25,46 @@ Create a platform where alumni can mentor current students and recent graduates,
 
 
 
-
-
-
-
-
 ## Proposed Solution / Architecture Diagram
 
+
+![sih3](https://github.com/user-attachments/assets/93db5a84-c195-48be-b230-27f8c743424b)
 
 
 
 
 ## Use Cases
 
+![SIH JPEG](https://github.com/user-attachments/assets/49a70a92-bb66-477f-9126-abfabd7532cb)
 
 ## Technology Stack
 
+Frontend: React.js (for building a user-friendly interface)
+
+Backend: Node.js (for handling server-side logic)
+
+Database: PostgreSQL (for storing user data, events, and alumni activities)
+
+Authentication: Firebase Authenticator (for secure user authentication)
+
+Cloud Storage: AWS S3 or Firebase Storage (for storing content like blogs, webinars, etc.)
+
+Communication APIs: Zoom SDK or WebRTC (for hosting webinars and virtual networking events)
+
+Version Control and Testing: Git, Postman, or Insomnia (for version management and API testing)
+
 
 ## Dependencies
+
+Mentorship Module:10 days
+
+Networking Events Module:10 days
+
+Knowledge Sharing Platform:10 days
+
+Scholarship Funding Platform:10 days
+
+UI/UX Design:10 days
+
+Estimated Budget: Rs. 50,000
 
